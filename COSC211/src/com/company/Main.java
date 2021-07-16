@@ -18,6 +18,7 @@ public class Main {
         // 12 IS SKIPPED FOR NOW.
         // 13 IS SKIPPED FOR NOW.
         p17_14.doProblem();
+        p17_18.doProblem();
 
     }
 }
