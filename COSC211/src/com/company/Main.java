@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         System.out.println("Which problem would you like to run?");
-        p12_11.doProblem();
+        p12_17.doProblem();
    //     p17_1.doProblem();
    //     p17_2.doProblem();
    //     p17_3.doProblem();
