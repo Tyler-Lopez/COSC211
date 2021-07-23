@@ -4,12 +4,13 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         System.out.println("Which problem would you like to run?");
-        RecursionPractice.doProblem();
+        //RecursionPractice.doProblem();
       //  p13_17.doProblem();
      //   Interfaces.doProblem();
      //  DecimalBinaryHex.doProblem();
         //p17_19.doProblem();
-        // FileStream.doProblem();
+        p18_3.doProblem();
+        //FileStream.doProblem();
      //   p17_9.doProblem();
        // p12_9.doProblem();
    //     p17_1.doProblem();

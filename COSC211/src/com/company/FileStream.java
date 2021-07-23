@@ -6,6 +6,36 @@ import java.util.Scanner;
 
 public class FileStream {
     public static void doProblem() throws IOException {
+        try(RandomAccessFile randomAccessFile = new RandomAccessFile("src\\data\\RandomAccessTest.dat", "rw")) {
+            randomAccessFile.setLength(0);
+            char c = Character.MAX_VALUE;
+            randomAccessFile.writeUTF(""+c);
+            System.out.println(randomAccessFile.length());
+            randomAccessFile.seek(0);
+            System.out.println(randomAccessFile.readUTF());
+            randomAccessFile.setLength(0);
+            randomAccessFile.writeUTF("aaaa");
+            System.out.println(randomAccessFile.length());
+            char greaterThanOrEqual = 2265;
+            System.out.println(greaterThanOrEqual);
+            int value = 2167;
+            DataOutputStream output = new DataOutputStream(
+                    new FileOutputStream("t.dat"));
+            output.writeShort(1234);
+            output.writeShort(5678);
+            output.close();
+            try(DataInputStream dataInputStream = new DataInputStream(new FileInputStream("t.dat"))) {
+                while(true) {
+                    try{
+                        System.out.println(dataInputStream.readShort());
+                    } catch(EOFException ex) {
+
+                    }
+                }
+            }
+
+        }
+        /*
         try(FileOutputStream output = new FileOutputStream("src\\data\\FileStreamTest.dat")) {
             for(int i = 0; i < 1000; i++) {
                 output.write(i);
@@ -83,5 +113,7 @@ public class FileStream {
             int value;
             while((value = bufferedInputStream.read()) != -1) System.out.println(value);
         }
+
+         */
     }
 }
