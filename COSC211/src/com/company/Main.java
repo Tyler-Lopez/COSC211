@@ -9,7 +9,8 @@ public class Main {
      //   Interfaces.doProblem();
      //  DecimalBinaryHex.doProblem();
         //p17_19.doProblem();
-        p18_3.doProblem();
+       // p18_3.doProblem();
+        p18_9.doProblem();
         //FileStream.doProblem();
      //   p17_9.doProblem();
        // p12_9.doProblem();
