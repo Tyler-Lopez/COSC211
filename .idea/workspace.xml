@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330c098f-2aa2-4c0a-b8d8-ab1fa20217bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p18_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p18_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p18_38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p18_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p18_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p18_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p18_25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COSC211/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/COSC211/src/com/company/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,15 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="COSC211" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,5 +67,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
