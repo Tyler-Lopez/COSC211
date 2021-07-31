@@ -1,5 +1,8 @@
 package com.company;
 
+import java.io.PrintWriter;
+import java.util.ArrayList;
+
 public class Main {
 
     public static void main(String[] args) throws Exception {
@@ -10,8 +13,10 @@ public class Main {
      //  DecimalBinaryHex.doProblem();
         //p17_19.doProblem();
        // p18_3.doProblem();
-        p18_25.doProblem();
-        //FileStream.doProblem();
+     Chapter20Practices.doProblem();
+        //   LinkListPractice.doProblem();
+      //  FibonacciCopy.doProblem();
+      //  FileStream.doProblem();
      //   p17_9.doProblem();
        // p12_9.doProblem();
    //     p17_1.doProblem();
