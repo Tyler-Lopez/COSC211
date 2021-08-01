@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330c098f-2aa2-4c0a-b8d8-ab1fa20217bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/Chapter20Practices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/FibonacciCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/GenericsPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/LinkListPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/StacksPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p20_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p20_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p20_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p20_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p20_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p20_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/COSC211/src/com/company/p20_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC211/src/com/company/FileStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/COSC211/src/com/company/FileStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/COSC211/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/COSC211/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/COSC211/src/com/company/p18_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/COSC211/src/com/company/p18_25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/COSC211/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COSC211/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/COSC211/com/company/p18_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/COSC211/com/company/p18_25.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
